@@ -7,14 +7,12 @@
 
 body{
     background-color: rgb(213, 225, 239);
-    align-items:center
 }
 
 #body-wrapper {
     width: 100vw;
     height: 100vh;
     display: flex;
-    align-items: center;
 }
 
 #qr-card {
@@ -29,10 +27,6 @@ body{
 
 }
 
-#qr-image {
-    width: fit-content;
-    /* width: 200px; */
-}
 
 #qr-image img{
     width: 100%;
